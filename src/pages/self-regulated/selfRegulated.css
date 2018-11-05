@@ -1,0 +1,25 @@
+.content-container{
+    
+    /* border:1px solid rgba(244,243,242,1); */
+}
+.list-txt-section{
+    padding:20px;
+    border-bottom:1px solid rgba(238,238,238,1);;
+}
+.list-txt-div{
+    display: flex;
+    justify-content: space-between;
+    cursor: pointer;
+    font-size:14px;
+    line-height:30px;
+}
+.page-container{
+    display: flex;
+    justify-content: flex-end;
+    margin-bottom:20px;
+    padding-right:20px;
+}
+.content-container .flex{
+    display: flex;
+    justify-content: space-between;
+}
